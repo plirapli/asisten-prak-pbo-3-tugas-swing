@@ -65,7 +65,5 @@ public class LoginPage extends JFrame {
         pilihPerempuan.setBounds(224, 232, 128, 32);
         
         tombolLogin.setBounds(14, 280, 452, 36);
-        
-//        tombolLogin.addActionListener();
     }
 }
